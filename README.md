@@ -1,11 +1,11 @@
 # Facing Energy
 
-Columbia University GSAPP
-Spring 2014
+Columbia University GSAPP  
+Spring 2014  
 
-Instructor: [Troy Conrad Therrien](mailto:tct2003@columbia.edu)
-Location: 200 Buell North
-Time: Thursday, 6-8pm
+Instructor: [Troy Conrad Therrien](mailto:tct2003@columbia.edu)  
+Location: 200 Buell North  
+Time: Thursday, 6-8pm  
 
 >	“We do not have an energy crisis, we have a crisis of ignorance.”
 	–Buckminster Fuller
